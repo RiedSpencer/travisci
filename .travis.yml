@@ -1,3 +1,2 @@
 language: php
-sudo: required
-install: true
+script: true
